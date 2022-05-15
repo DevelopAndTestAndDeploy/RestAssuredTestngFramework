@@ -4,12 +4,11 @@ package com.spotify.oauth2.pojo;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-import javax.annotation.processing.Generated;
 import java.util.List;
 
 @JsonInclude(JsonInclude.Include.NON_NULL)
 
-@Generated("jsonschema2pojo")
+//@Generated("jsonschema2pojo")
 public class Tracks {
 
     @JsonProperty("href")
