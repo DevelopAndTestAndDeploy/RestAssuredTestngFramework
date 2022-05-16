@@ -4,4 +4,5 @@ public class DummyClass {
 
     String heelo;
     String hheelo;
+    String kkhheelo;
 }
